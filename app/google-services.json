@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "259777355421",
+    "firebase_url": "https://radioathoi-7e1bc.firebaseio.com",
+    "project_id": "radioathoi-7e1bc",
+    "storage_bucket": "radioathoi-7e1bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259777355421:android:e47d5da27ae989dc",
+        "android_client_info": {
+          "package_name": "com.pepunbarua.radioathoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259777355421-hd0rliu7fnhhnr7rao7152h5otgtgr13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtyrO5LMjmf3HdDX_2Q3gmIlW3DdtjX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
